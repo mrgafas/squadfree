@@ -109,7 +109,7 @@ Dropdown
 }
 
 #section1 {
-  background-image: url("../img/hero-bg.jpg");
+  background-image: url("./img/hero-bg.jpg");
   margin: 0;
   background-size: cover;
   background-attachment: fixed;
